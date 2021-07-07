@@ -9,14 +9,16 @@ description: Learn more about Moonbeam compatible wallets including MetaMask, Ma
 
 ## Introduction
 
-Moonbeam's underlying [account system](/learn/features/unified-accounts/) allows users to interact with Moonbeam using a single Ethereum-style (H160) address. To create or interact with an account on Moonbeam, check out one of the Moonbeam compatible wallets: [MetaMask](https://metamask.io/), [MathWallet](https://mathwallet.org/), [Polkadot JS Apps](https://polkadot.js.org/apps/), and [AirGap](https://airgap.it/).
+Moonbeam's underlying [account system](/learn/features/unified-accounts/) allows users to interact with Moonbeam using a single Ethereum-style (H160) address. To create or interact with an account on Moonbeam, check out one of the [Moonbeam compatible wallets](#moonbeam-compatible-wallets).
 
 ## Moonbeam Compatible Wallets
 
-- MetaMask - A crypto wallet and Ethereum Provider API that allows users to manage accounts via a mobile app, browser extension, hardware wallet, and more.
-- MathWallet - A universal crypto wallet that is compatible with MetaMask's Ethereum Provider API and available in the form of a mobile app, browser extension, web wallet, and hardware wallet.
-- Polkadot JS Apps - Polkadot JS is rooted in Polkadot but was adapted to natively support H160 addresses and therefore can be used to manage Moonbeam accounts.
-- AirGap - A hardware wallet that uses a two device approach to store your private keys safely offline.
+- [MetaMask](https://metamask.io/) - A crypto wallet and Ethereum Provider API that allows users to manage accounts via a mobile app, browser extension, hardware wallet, and more.
+- [MathWallet](https://mathwallet.org/) - A universal crypto wallet that is compatible with MetaMask's Ethereum Provider API and available in the form of a mobile app, browser extension, web wallet, and hardware wallet.
+- [Polkadot JS Apps](https://polkadot.js.org/apps/) - Polkadot JS is rooted in Polkadot but was adapted to natively support H160 addresses and therefore can be used to manage Moonbeam accounts.
+- [AirGap](https://airgap.it/) - A hardware wallet that uses a two device approach to store your private keys safely offline.
+- [Ledger](https://www.ledger.com/) - A popular hardware wallet provider, available in two different solutions: Ledger Nano S and Ledger Nano X.
+- [Trezor](https://trezor.io/) - A popular hardware wallet provider, available in two different solutions: Trezor One and Trezor Model T.
 
 ## Connect MetaMask to Moonbase Alpha
 
@@ -39,3 +41,7 @@ If you are interested in a more detailed step-by-step guide, go to our specific 
     - [Interacting with Moonbeam Using MathWallet](/tutorials/moonbase-alpha/wallets/mathwallet/)
 - Polkadot JS Apps
     - [Interacting with Moonbeam Using Polkadot JS Apps](/tutorials/moonbase-alpha/wallets/polkadot-js-apps/)
+- Ledger
+    - [Interacting with Moonbeam Using Ledger](/tutorials/moonbase-alpha/wallets/ledger)
+- Trezor
+    - [Interacting with Moonbeam Using Trezor](/tutorials/moonbase-alpha/wallets/trezor)

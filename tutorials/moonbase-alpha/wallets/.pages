@@ -3,5 +3,7 @@ nav:
   - index.md
   - metamask.md
   - mathwallet.md
+  - ledger.md
+  - trezor.md
   - polkadot-js-apps.md
   - integrate-metamask.md

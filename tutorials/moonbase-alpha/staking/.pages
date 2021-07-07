@@ -2,3 +2,4 @@ title: Staking
 nav:
   - index.md
   - how-to-stake.md
+  - staking-precompile.md

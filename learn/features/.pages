@@ -7,4 +7,5 @@ nav:
   - tokens.md
   - staking.md
   - governance.md
+  - treasury.md
   - parachain-consensus.md

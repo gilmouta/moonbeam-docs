@@ -3,5 +3,6 @@ hide: false
 nav:
   - index.md
   - run-a-node.md
+  - compile-the-binary.md
   - collators.md
   - telemetry.md
