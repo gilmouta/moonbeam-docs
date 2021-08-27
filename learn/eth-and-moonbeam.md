@@ -1,15 +1,17 @@
 ---
-title: Eth Comparison
+title: Moonbeam vs Ethereum
 description: It can seem daunting to move to a Polkadot parachain if you’re used to Ethereum. Here’s what to expect when using Moonbeam for the first time.
 ---
 
-## Differences Between Moonbeam and Ethereum
-
 ## Introduction
 
-While Moonbeam strives to be compatible with Ethereum's Web3 API and EVM, there are a number of important Moonbeam differences.
+While Moonbeam strives to be compatible with Ethereum's Web3 API and EVM, there are some of important Moonbeam differences that developers should know and understand.
 
 This guide will outline some of the main differences, and what to expect when using Moonbeam for the first time.
+
+## Account Balances
+
+Moonbeam is based on [Substrate][https://www.substrate.io/]
 
 ## Consensus Mechanism
 
